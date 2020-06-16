@@ -16,15 +16,27 @@
     attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
   });
 
+const createPopup = (feature, ignoreKeys = ['icon', 'color']) => {
+    let text = ''
+    let properties = feature.properties
+
+    Object.keys(properties).forEach(key => {
+      if (properties[key] && !ignoreKeys.includes(key)) {
+        text += `<strong>${key}:</strong> ${properties[key]}<br>`
+      }
+    })
+    return text
+  }
+
       var customLayer = L.geoJson(null, {
   onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Institucion);
+      layer.bindPopup(createPopup(feature, ['icon', 'color']))
+      //layer.bindPopup(feature.properties.EcoVecino);
       }
   });
 
   var runLayer = omnivore.csv(dataUrl, null, customLayer)
       .on('ready', function() {
-          // http://leafletjs.com/reference.html#map-fitbounds
           map.fitBounds(runLayer.getBounds());
       })
       .addTo(map);
