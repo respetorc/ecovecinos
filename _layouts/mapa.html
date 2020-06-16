@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  {% include head-mapa.html %}
+  <body>
+
+    {% include navbar.html %}
+
+    {% unless page.hide_hero %}
+       {% include hero.html %}
+    {% endunless %}
+
+    <section class="section content">
+      <div class="container" style="min-height:800px">
+        <!-- Insert HTML division tag to layout the map -->
+        <div id="map" style="height:850px"></div>
+      </div>
+    </section>
+
+    {% include script-mapa.js %}
+    {% include footer.html %}
+
+  </body>
+</html>

@@ -1,0 +1,100 @@
+/*
+:root {
+    --main-color: red;
+    --main-color: #db4a37;
+    --dark-color: #343436;
+}
+*/
+
+/*
+ navbar
+*/
+.navbar {
+    border-bottom: 2px solid;
+    background-image: linear-gradient(141deg,#009e6c 0,#00d1b2 71%,#00e7eb 100%);
+    color: white;
+}
+
+.navbar-item {
+    color: white;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 1023px) {
+    .navbar-menu {
+        background-image: linear-gradient(141deg,#009e6c 0,#00d1b2 71%,#00e7eb 100%);
+    }
+}
+
+strong {
+    color: white;
+}
+body {
+    background: var(--dark-color);
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.message {
+    //margin-top: 0.25rem;
+}
+
+.hero {
+    margin-bottom: 1rem
+}
+.hero.is-info {
+    background-color: var(--main-color);
+}
+
+.message-header {
+    background-color: var(--main-color);
+}
+
+.message-body {
+    cursor: pointer;
+    background-color: var(--dark-color);
+    color: white;
+    padding: 5px 20px;
+}
+
+.message-body:hover {
+    background-color: var(--main-color);
+}
+
+.box {
+    cursor: pointer;
+    background-color: var(--dark-color);
+    color: white;
+    margin: 10px 10px !important;
+    padding: 10px 20px;
+    border-left: solid 1px #757575;
+    border-right: solid 1px #757575;
+}
+
+.box:hover {
+    background-color: var(--main-color);
+}
+
+.media {
+    color: white;
+}
+.button.is-danger {
+    background-color: var(--main-color);
+}
+
+.image {
+    background-color: hsl(0, 0%, 93%);
+}
+.has-bg-img {
+    background: linear-gradient(to top, rgba(46, 49, 65, 0.7), rgba(46, 49, 65, 0.7)), url("/img/.jpg") no-repeat center center;
+    background-size: contain;
+    background-position: relative;
+    background-attachment: fixed;
+}
+
+.footer {
+    margin-top: 1rem;
+    /* background-color: #b1cdcd; */
+}
