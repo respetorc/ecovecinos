@@ -31,7 +31,7 @@ const createPopup = (feature, ignoreKeys = ['icon', 'color']) => {
 var customLayer = L.geoJson(null, {
 onEachFeature: function(feature, layer) {
       layer.bindPopup(createPopup(feature, ['icon', 'color']))
-      layer.bindPopup(feature.properties.EcoVecino);
+      //layer.bindPopup(feature.properties.EcoVecino);
       }
   })
 
