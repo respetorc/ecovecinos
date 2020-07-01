@@ -1,8 +1,8 @@
 latitud,longitud,ecovecino/a,residuosrecuperados,ecobotellasconstruidas,calle,numero
 -33.108049,-64.306024,Sofia,"3.12 kg",0,"Calle 1",1-1
 -33.109015,-64.307803,Belen,"0,87 kg",0,"Calle 4",1-2
--33.112436,-64.310567,"Maria jose","0 kg",0,"Calle 12",3
--33.112642,-64.309515,"Maria jose","2,44 kg",0,"Calle 7",4
+-33.112436,-64.310567,"Maria jose","0 kg",0,"Calle 12",1-3
+-33.112642,-64.309515,"Maria jose","2,44 kg",0,"Calle 7",1-4
 -33.115299,-64.308829,Stefi,"8,18 kg",3,"Calle 5",5
 -33.114514,-64.313623,Jorgelina,"0 kg",0,"Teresa Frua",6
 -33.113857,-64.317005,Moira,"5,95 kg",1,"Nicanor Lucero",7
