@@ -17,7 +17,7 @@
   <div id="navbarMain" class="navbar-menu">
     <div class="navbar-end">
       {% for item in site.data.navbar %}
-      <a class="navbar-item" href="{{ item.link | prepend: site.url }}">
+      <a class="navbar-item" href="{{ item.link | prepend: site.url + site.baseurl }}">
         {{ item.name }}
       </a>
       {% endfor %}
