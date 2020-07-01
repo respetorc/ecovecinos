@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ecoveciones. Proyecto Respeto.
 baseurl: "/ecovecinos" # the subpath of your site, e.g. /blog
-url: "https://respeto.org.ar/ecovecinos" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://respeto.org.ar" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -41,15 +41,15 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
 
 host: 0.0.0.0
