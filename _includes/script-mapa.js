@@ -1,6 +1,6 @@
 <script>
 
-  const dataUrl = 'https://docs.google.com/spreadsheets/u/1/d/1qqYgB_1qnr2PVrx5y0cxe5Vje5D3TvrinPLNvh0sQ4s/export?format=csv&id=1qqYgB_1qnr2PVrx5y0cxe5Vje5D3TvrinPLNvh0sQ4s&gid=0'
+  const dataUrl = 'georef/ecovecinos.csv'
 
   var map = L.map('map', {
     center: [-33.1252, -64.3431],
