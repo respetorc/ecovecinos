@@ -17,7 +17,7 @@
   <div id="navbarMain" class="navbar-menu">
     <div class="navbar-end">
       {% for item in site.data.navbar %}
-      <a class="navbar-item" href="{{ item.link | prepend: site.url + site.baseurl }}">
+      <a class="navbar-item" href="{{ item.link | prepend: "https://respeto.org.ar/ecovecinos" }}">
         {{ item.name }}
       </a>
       {% endfor %}
