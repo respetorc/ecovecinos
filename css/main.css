@@ -27,7 +27,7 @@
 }
 
 strong {
-    color: black;
+    color: #343436;
 }
 body {
     background: var(--dark-color);
