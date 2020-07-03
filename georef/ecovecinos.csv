@@ -1,113 +1,112 @@
 latitud,longitud,ecovecino/a,residuosrecuperados,ecobotellasconstruidas,calle,numero
--33.108049,-64.306024,Sofia,"3.12 kg",0,"Calle 1",1-1
--33.109015,-64.307803,Belen,"0,87 kg",0,"Calle 4",1-2
--33.112436,-64.310567,"Maria jose","0 kg",0,"Calle 12",1-3
--33.112642,-64.309515,"Maria jose","2,44 kg",0,"Calle 7",1-4
--33.115299,-64.308829,Stefi,"8,18 kg",3,"Calle 5",5
--33.114514,-64.313623,Jorgelina,"0 kg",0,"Teresa Frua",6
--33.113857,-64.317005,Moira,"5,95 kg",1,"Nicanor Lucero",7
--33.113879,-64.316828,Analia,"6,24 kg",0,"Moises Valentinuzzi ",8
--33.116236,-64.319822,"Maria Beatriz","7,3 kg",0,Piñeiro,9
--33.118324,-64.330674,Agustina,"8,38 kg",0,Achalay,10
--33.117178,-64.331699,Marcela,"9,76 kg",0,"Florencio Sanchez",11
--33.115770,-64.330050,Magdalena,"5,8 kg",0,"Quirico Porreca",12
--33.116100,-64.329610,Carolina,"2,08 kg",0,"Quirico Porreca",13
--33.115755,-64.327636,maria,"2,8 kg",0,Brasil,15
--33.115468,-64.327984,silvia,"10,66 kg",2,Brasil,16
--33.114861,-64.328799,eduardo,"3,32 kg",1,Brasil,17
--33.115205,-64.328441,Ana,"3,02 kg",0,"Pje Yaravi",18
--33.114646,-64.327842,silvia,"5,42 kg",1,"Pje Yaravi",19
--33.114493,-64.327649,soledad,"9,56 kg",0,"Pje Yaravi",20
--33.115182,-64.327299,sara,"3,17 kg",0,Achalay,21
--33.114614,-64.326580,"hernan y flia","4,32 kg",0,"Estados Unidos",22
--33.114070,-64.326108,"abel y familia","6,04 kg",0,Achalay,23
--33.113396,-64.325316,rosina,"13,52 kg",0,Achalay,24
--33.115180,-64.326156,silvia,"1,24 kg",0,"Pje los alerces ",25
--33.111451,-64.325451,"merlina y familia","13,16 kg",0,"Florencio Sánchez",26
--33.110645,-64.325626,mariel,"20,48 kg",0,"Pje el Chasque",27
--33.112012,-64.322861,mariangel,"4,08 kg",0,"Juana Azurduy de Padilla",28
--33.112264,-64.321298,gustavo,"3,34 kg",3,"Pje Pablo Canepa",29
--33.110377,-64.322173,"maria virginia","21,02 kg",0,Achalay,30
--33.106650,-64.320312,alejandra,"4,5 kg",0,"Florencio Sanchez",31
--33.106912,-64.318443,nanci,"5,4 kg",0,Achalay,32
--33.107380,-64.318862,ana,"8,3 kg",0,Achalay,33
--33.107880,-64.318570,pilar,"0 kg",0,"Venezuela ",34
--33.106828,-64.319429,lorena,"0,7 kg",0,"Pje Yaravi",35
--33.106962,-64.319552,,"7,24 kg",0,"Pje Yaravi",36
--33.105885,-64.316393,ailin,"0 kg",0,Cuba,37
--33.106496,-64.315822,marcelo,"10,3 kg",0,Bariloche,38
--33.106568,-64.315508,ludmila,"1,5 kg",0,Cuba,39
--33.106829,-64.313451,camila,"3,04 kg",0,"Laguna Blanca",40
--33.104056,-64.314277,jose,"0 kg",0,"Pje los alerces ",41
--33.103573,-64.316859,jesica,"6 kg",0,"Costa rica",42
--33.103950,-64.316322,"jime y familia","11,08 kg",0,"Costa rica",43
--33.104003,-64.316290,"vani e ivan","0 kg",0,"Costa rica",44
--33.101488,-64.319628,,,,,45
--33.100903,-64.320747,,,,,46
--33.097938,-64.326379,,,,,47
--33.099291,-64.327218,,,,,48
--33.101438,-64.323353,,,,,49
--33.104424,-64.323805,,,,,50
--33.104817,-64.322491,,,,,51
--33.105475,-64.321620,,,,,52
--33.102463,-64.321374,,,,,53
--33.106161,-64.325145,,,,,54
--33.104560,-64.326701,,,,,55
--33.104682,-64.327520,,,,,56
--33.102793,-64.328201,,,,,57
--33.101440,-64.329394,,,,,58
--33.103732,-64.330583,,,,,59
--33.104679,-64.329912,,,,Mexico,60
--33.105749,-64.329206,,,,"Pje Chaco",61
--33.105714,-64.328209,,,,Misiones,62
--33.107781,-64.329459,,,,"Pje Emilio Jautz",63
--33.108681,-64.333413,,,,"San Luis",64
--33.109316,-64.336013,,,,Brasil,65
--33.109349,-64.336144,,,,Misiones,66
--33.110550,-64.333489,,,,Brasil,67
--33.111431,-64.329859,,,,"Mariquita Sánchez de Thompson",68
--33.113456,-64.330636,,,,brasil,69
--33.114992,-64.331350,,,,muñiz,70
--33.111666,-64.334529,,,,misiones,71
--33.111468,-64.335478,,,,"quirico porreca",72
--33.112063,-64.336014,,,,"Pje Chubut",73
--33.114480,-64.336467,,,,Colombia,74
--33.106045,-64.337056,,,,"Marcelo T de Alvear",75
--33.105848,-64.338100,,,,"Republica Arabe Siria ",76
--33.104473,-64.341173,,,,"Pje Dante",77
--33.104442,-64.343182,,,,"Pje pachamama",78
--33.102722,-64.339823,,,,"República del Líbano",79
--33.101116,-64.342026,,,,"República del Líbano",80
--33.101407,-64.337765,,,,"Pje Dante",81
--33.100334,-64.338726,,,,"Pje Pachamama",82
--33.100269,-64.336875,,,,"Pasaje Vicecomodoro Marambio",83
--33.100409,-64.336712,,,,"Pasaje Vicecomodoro Marambio",84
--33.098470,-64.330877,,,,"Neri Guerra",85
--33.097525,-64.329600,,,,Nicaragua,86
--33.094007,-64.327520,,,,"Pje Pedro Grenon",87
--33.094215,-64.321798,,,,Guatemala,88
--33.094762,-64.319666,,,,"Pje Formosa",89
--33.088800,-64.336907,,,,Diaguitas,90
--33.093744,-64.354542,,,,"Clodomira Vera",92
--33.093530,-64.356107,,,,"Antonio del Valle",93
--33.094688,-64.356343,,,,"Dr Tomas Soaje",94
--33.097546,-64.345694,,,,"Roberto Payro",91
--33.081524,-64.359233,,,,"Cooperativa Todo Sirve",0
--33.104713,-64.342056,,,,"Antartida Argentina",102
--33.098240,-64.333227,,,,"Victor Hugo",95
--33.098588,-64.317223,,,,"Pje Santa Cruz",98
--33.105689,-64.324661,,,,"Pje Santa Cruz",99
--33.100971,-64.320769,,,,Segurola,97
--33.101538,-64.321377,,,,Segurola,101
--33.107093,-64.319734,,,,Venezuela,100
--33.102060,-64.316410,,,,"El salvador",96
--33.109040,-64.307385,,,,"calle 4",103
--33.101116,-64.320229,,,,"Pje Costa Rica",104
--33.108677,-64.306927,,,,"Calle 3",105
--33.103426,-64.316824,,,,"Florencio Sanchez",106
--33.118890,-64.330782,,,,colombia,107
--33.104807,-64.341392,,,,"Pje el dante",108
--33.114746,-64.308788,,,,"Calle 5",109
--33.102081,-64.316418,,,,"El salvador",110
--33.109787,-64.330587,,,,"Juan cruz varela",111
--33.097852,-64.347820,,,,"Ruiz de Guzman",112
+-33.108049,-64.306024,Sofia,3.12,0,Calle 1,1-1
+-33.109015,-64.307803,Belen (complejo depto 1 y 2),"0,87",0,Calle 4,1-2
+-33.109225,-64.307661,Diego (complejo depto 3 y 4),0,0,Calle 4,1-3
+-33.109333,-64.307656,Diego (complejo depto 5 y 6),0,0,Calle 4,1-4
+-33.112436,-64.310567,Maria jose G,0,0,Calle 12,1-5
+-33.112642,-64.309515,Maria jose L,"2,44",0,Calle 7,1-6
+-33.115222,-64.308858,Monica,0,0,Calle 5,1-7
+-33.115299,-64.308829,Stefi,"8,18",3,Calle 5,1-8
+-33.114964,-64.307895,agustina y familia,0,0,calle 3,1-9
+-33.116639,-64.307570,paula (complejo depto 1 y 2),0,0,calle 3,1-10
+-33.114514,-64.313623,Jorgelina,0,0,Teresa Frua,1-11
+-33.113857,-64.317005,Moira,"5,95",1,Nicanor Lucero,1-12
+-33.113879,-64.316828,Analia,"6,24",0,Moises Valentinuzzi ,1-13
+-33.116236,-64.319822,Maria Beatriz,"7,3",0,Piñeiro,1-14
+-33.118324,-64.330674,Agustina,"8,38",0,Achalay,1-15
+-33.118847,-64.330723,Ezequiel,0,0,Colombia,1-16
+-33.117178,-64.331699,Marcela,"9,76",0,Florencio Sanchez,1-17
+-33.115770,-64.330050,Magdalena,"5,8",0,Quirico Porreca,1-18
+-33.116100,-64.329610,Carolina,"2,08",0,Quirico Porreca,1-19
+-33.115755,-64.327636,maria,"2,8",0,Brasil,1-20
+-33.115468,-64.327984,silvia,"10,66",2,Brasil,1-21
+-33.114861,-64.328799,eduardo,"3,32",1,Brasil,1-22
+-33.115205,-64.328441,Ana,"3,02",0,Pje Yaravi,1-23
+-33.114646,-64.327842,silvia,"5,42",1,Pje Yaravi,1-24
+-33.114493,-64.327649,soledad,"9,56",0,Pje Yaravi,1-25
+-33.115182,-64.327299,sara,"3,17",0,achalay,1-26
+-33.114614,-64.326580,hernan y flia,"4,32",0,Estados Unidos,1-27
+-33.114070,-64.326108,abel y familia,"6,04",0,Achalay,1-28
+-33.115180,-64.326156,silvia,"1,24",0,Pje los alerces ,1-29
+-33.113396,-64.325316,rosina,"13,52",0,Achalay,1-30
+-33.111451,-64.325451,merlina y familia,"13,16",0,Florencio Sánchez,1-31
+-33.110645,-64.325626,mariel,"20,48",0,Pje el Chasque,1-32
+-33.112012,-64.322861,mariangel,"4,08",0,Juana Azurduy de Padilla,1-33
+-33.112264,-64.321298,gustavo,"3,34",3,Pje Pablo Canepa,1-34
+-33.110377,-64.322173,maria virginia,"21,02",0,Achalay,1-35
+-33.106829,-64.313451,camila,"3,04",0,Laguna Blanca,1-36
+-33.107880,-64.318570,pilar,0,0,Venezuela ,1-37
+-33.107380,-64.318862,ana,"8,3",0,Achalay,1-38
+-33.106912,-64.318443,nanci,"5,4",0,Achalay,1-39
+-33.106828,-64.319429,lorena,"0,7",0,Pje Yaravi,1-40
+-33.106962,-64.319552,vecinos lore,"7,24",0,Pje Yaravi,1-41
+-33.107164,-64.319663,azul,0,0,Venezuela ,1-42
+-33.106650,-64.320312,alejandra,"4,5",0,Florencio Sanchez,1-43
+-33.105885,-64.316393,ailin,0,0,Cuba,1-44
+-33.106496,-64.315822,marcelo,"10,3",0,Bariloche,1-45
+-33.106568,-64.315508,ludmila,"1,5",0,Cuba,1-46
+-33.104056,-64.314277,jose,0 kg,0,Pje los alerces ,1-47
+-33.104003,-64.316290,vani e ivan,0 kg,0,Costa rica,1-48
+-33.103950,-64.316322,jime y familia,"11,08 kg",0,Costa rica,1-49
+-33.103573,-64.316859,jesica,6 kg,0,Costa rica,1-50
+-33.103448,-64.316825,melisa,0,0,Florencio Sanchez,1-51
+-33.102029,-64.316434,emilio y alba,0,0,el salvador,1-52
+-33.098588,-64.317223,patricia,0,0,Pje Santa Cruz,2-0
+-33.101488,-64.319628,candelaria,"14,54",1,costa rica,2-1
+-33.101076,-64.320138,ofelia,0,0,costa rica,2-2
+-33.100903,-64.320747,viviana,"6,44",3,segurola,2-3
+-33.101238,-64.321053,bianca,0,0,segurola,2-4
+-33.101319,-64.321147,fernanda,0,0,segurola,2-5
+-33.102463,-64.321374,eli y fede,"16,35",0,pasaje santa curz,2-6
+-33.101438,-64.323353,guillermo,"5,98",0,misiones,2-7
+-33.100733,-64.323018,amiga hernan,"3,2",2,cuba,2-8
+-33.097938,-64.326379,analia,"16,4",1,jujuy,2-9
+-33.099291,-64.327218,cecilia,"10,88",1,bolivia,2-10
+-33.104424,-64.323805,silvia,"2,32",0,pasaje Mastrangelo,2-11
+-33.104817,-64.322491,elisa,"21,35",0,Venezuela ,2-12
+-33.105475,-64.321620,milagros,"21,14",0,Venezuela ,2-13
+-33.105689,-64.324661,miriam,0,0,Pje Santa Cruz,2-14
+-33.106161,-64.325145,candelaria,"10,26",3,Pje Santa Cruz,2-15
+-33.104560,-64.326701,fer y familia,"15,2",0,misiones,2-16
+-33.104682,-64.327520,silvia,"5,37",0,uruguay,2-17
+-33.102793,-64.328201,juan,"13,48",0,pasaje formosa,2-18
+-33.101440,-64.329394,beti,"6,72",0,ecuador,2-19
+-33.103732,-64.330583,nadia,"2,3",0,santa fe,2-20
+-33.104679,-64.329912,alicia,"2,08",0,Mexico,2-21
+-33.105714,-64.328209,rene,"37,3",0,Misiones,2-22
+-33.107781,-64.329459,noelia,"18,4",3,Pje Emilio Jautz,2-23
+-33.109787,-64.330587,paola,0,0,Juan cruz varela,2-24
+-33.108681,-64.333413,veronica,"7,8",0,San Luis,2-25
+-33.113456,-64.330636,andrea,"7,56",1,brasil,2-26
+-33.114992,-64.331350,francisco,"13,9",0,muñiz,2-27
+-33.113737,-64.332553,liliana,0,0,Quirico Porreca,2-28
+-33.114480,-64.336467,pilar,"2,86",0,Colombia,2-29
+-33.111468,-64.335478,tania,"3,52",0,quirico porreca,2-30
+-33.112063,-64.336014,katia,"27,12",0,Pje Chubut,2-31
+-33.111666,-64.334529,soledad,"7,46",0,misiones,2-32
+-33.109316,-64.336013,betti,"8,5",0,Brasil,2-33
+-33.109349,-64.336144,viviana,"15,9",0,Misiones,2-34
+-33.110550,-64.333489,lucia,"6,6",0,Brasil,2-35
+-33.099507,-64.322207,lula,0,0,costa rica,2-36
+-33.106045,-64.337056,renata,"5,72",0,Marcelo T de Alvear,3-1
+-33.105848,-64.338100,maitena,"3,34",0,Republica Arabe Siria ,3-2
+-33.104473,-64.341173,charli,"10,6",0,Pje Dante,3-3
+-33.104807,-64.341392,lucia,0,0,Pje el dante,3-4
+-33.104713,-64.342056,laura,0,0,Antartida Argentina,3-5
+-33.104442,-64.343182,ariadna,"12,4",0,Pje pachamama,3-6
+-33.102722,-64.339823,giuliana,"8,2",0,República del Líbano,3-7
+-33.101116,-64.342026,laura,3,0,República del Líbano,3-8
+-33.100334,-64.338726,guillermo,"6,64",0,Pje Pachamama,3-9
+-33.101407,-64.337765,rocio,"10,2",0,Pje Dante,3-10
+-33.100269,-64.336875,rosaio,"16,66",0,Pasaje Vicecomodoro Marambio,3-11
+-33.100409,-64.336712,vecina,"15,69",0,Pasaje Vicecomodoro Marambio,3-12
+-33.098244,-64.333304,carolina,0,0,Victor Hugo,3-13
+-33.097831,-64.332860,carlos,"13,7",0,Victor Hugo,3-14
+-33.094007,-64.327520,kevin y paula,"3,48",0,Pje Pedro Grenon,3-15
+-33.088800,-64.336907,Ramon,"14,8",2,Diaguitas,3-16
+-33.097546,-64.345694,laura,"5,6",0,Roberto Payro,3-17
+-33.097852,-64.347820,mirta,0,0,Ruiz de Guzman,3-18
+-33.093744,-64.354542,monica,"16,62",0,Clodomira Vera,3-19
+-33.093530,-64.356107,salome,"9,1",0,Antonio del Valle,3-20
+-33.094688,-64.356343,maxi,"5,46",0,Dr Tomas Soaje,3-21
+-33.081524,-64.359233,Cooperativa Todo Sirve,,,costanera,0

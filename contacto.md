@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Contacto
 permalink: /contacto/
 ---
@@ -8,4 +8,4 @@ permalink: /contacto/
 - Emilia Battaglino, cel 351 326 5647
 - Ignacio Origlia, cel 3584363054
 
-- [Respeto](https://www.respeto.org.ar)
+- [Respeto](https://respeto.org.ar)
