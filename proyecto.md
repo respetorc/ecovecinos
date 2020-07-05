@@ -18,7 +18,11 @@ __Gestión integral de la higiene urbana__
 REDUCIR LA CANTIDAD DE RESIDUOS MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. POR OTRO LADO, LA DECISIÓN DE REUTILIZAR Y RECICLAR APARECEN TAMBIÉN COMO ALTERNATIVAS MÁS QUE ÚTILES PARA SUMARSE A ESA BÚSQUEDA DE ACERCARNOS A TENER BASURA CERO EN NUESTRA CIUDAD. Y EN ESO, EL APORTE DE CADA UNO DESDE SU CASA, ES NECESARIO Y FUNDAMENTAL.
 Desde el planteo que habíamos hecho en 2019 [Separación en orígen como alternativa al fracaso de la gestión de la higiene urbana.](https://respeto.org.ar/2019/02/07/higiene_urbana/) comenzamos a darle forma a un ensayo de separación en origen de residuos y disposición final con la inclusión de la dimensión social (recuperadores urbanos) en el proceso.
 
-En este marco nace __ecovecin@s__ describir
+En este marco nace __ecovecin@s__: describir
+- compostaje domiciliario para los residuos orgánicos (para reducir el 50% de lo que se genera como basura)
+- bolsas de separación de residuos sólidos urbanos (3 colores) para poder recuperar el otro 50% de lo que se genera como desecho
+
+Imagenes de ecovecinos, bolsas, chata, y algunos datos.
 
 
 ### Resumen de recolecciones
