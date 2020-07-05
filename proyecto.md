@@ -3,7 +3,7 @@ layout: default
 title: Proyecto
 permalink: /proyecto/
 ---
-Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuestras ideas para dar respuesta o ensayar (a pequeña escala) la solución a alguna problemática de la ciudad. El tratamiento de la basura (o residuos sin están separados) es un punto muy importante en la gestión de cualquier localidad y como venimos sosteniendo desde que ingresamos al concejo deliberante, el estado municipal debería asumir un rol importante para dar respuesta.
+Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuestras ideas para dar respuesta o ensayar (a pequeña escala) la solución a alguna problemática de la ciudad. El tratamiento de la basura (o residuos sin están separados) es un punto muy importante en la gestión de cualquier localidad y como venimos sosteniendo desde que ingresamos al concejo deliberante, el estado municipal debería asumir un rol importante para dar respuesta a esta temática.
 
 El gobierno local optó por la misma estrategia del gobierno anterior de mantener a una empresa privada que brinda un mal servicio con un elevado costo para los riocuartenses a pesar de haber prometido en campaña que con su gestión COTRECO se iba ir. Lo cierto es que se mantuvo a la empresa a pesar de sus grandes irregularidades y renovó su contrato con la aprobación del Código de Higiene en 2017.  
 El canon mensual que se le pagaba a Cotreco por la totalidad del servicio (barrido, recolección, tratamiento y disposición de residuos y construcción de la planta) comenzó siendo de $26.300.000 mensuales. Luego, debido a varias redeterminaciones que pide la empresa y que el municipio otorga pasó a $44.832.907 hasta llegar a $68.000.000 mensuales que pagamos hoy; es decir, más de __2 millones de pesos por día__.
@@ -17,6 +17,8 @@ Si bien desde ese momento el contrato no tiene validez, el municipio siguió opt
 __Gestión integral de la higiene urbana__
 REDUCIR LA CANTIDAD DE RESIDUOS MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. POR OTRO LADO, LA DECISIÓN DE REUTILIZAR Y RECICLAR APARECEN TAMBIÉN COMO ALTERNATIVAS MÁS QUE ÚTILES PARA SUMARSE A ESA BÚSQUEDA DE ACERCARNOS A TENER BASURA CERO EN NUESTRA CIUDAD. Y EN ESO, EL APORTE DE CADA UNO DESDE SU CASA, ES NECESARIO Y FUNDAMENTAL.
 Desde el planteo que habíamos hecho en 2019 [Separación en orígen como alternativa al fracaso de la gestión de la higiene urbana.](https://respeto.org.ar/2019/02/07/higiene_urbana/) comenzamos a darle forma a un ensayo de separación en origen de residuos y disposición final con la inclusión de la dimensión social (recuperadores urbanos) en el proceso.
+
+En este marco nace __ecovecin@s__ describir
 
 
 ### Resumen de recolecciones
