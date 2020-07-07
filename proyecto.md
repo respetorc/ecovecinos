@@ -1,72 +1,46 @@
 ---
 layout: default
-title: Proyecto
+title: Ecovecin@s como proyecto piloto de separación domiciliaria
 permalink: /proyecto/
 ---
-Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuestras ideas para dar respuesta o ensayar (a pequeña escala) la solución a alguna problemática de la ciudad. El tratamiento de la basura (o residuos sin están separados) es un punto muy importante en la gestión de cualquier localidad y como venimos sosteniendo desde que ingresamos al concejo deliberante, el estado municipal debería asumir un rol importante para dar respuesta a esta temática.
-
-El gobierno local optó por la misma estrategia del gobierno anterior de mantener a una empresa privada que brinda un mal servicio con un elevado costo para los riocuartenses a pesar de haber prometido en campaña que con su gestión COTRECO se iba ir. Lo cierto es que se mantuvo a la empresa a pesar de sus grandes irregularidades y renovó su contrato con la aprobación del Código de Higiene en 2017.  
-El canon mensual que se le pagaba a Cotreco por la totalidad del servicio (barrido, recolección, tratamiento y disposición de residuos y construcción de la planta) comenzó siendo de $26.300.000 mensuales. Luego, debido a varias redeterminaciones que pide la empresa y que el municipio otorga pasó a $44.832.907 hasta llegar a $68.000.000 mensuales que pagamos hoy; es decir, más de __2 millones de pesos por día__.
-
-Con la firma del contrato mencionado, el municipio comienza a pagar 176.000$ por mes para la construcción de una planta de tratamiento de residuos sólidos urbanos, planta no va a representar ninguna mejora en la higiene urbana sino más costo y derroche energético (para más información leer [Críticas a la planta de Tratamiento de Residuos y a la inexistencia de un programa integral de residuos con matriz social](https://respeto.org.ar/2019/11/01/audiencia_cotreco/)) y comenzaron a aumentar por las redeterminaciones de precios a pesar de no haber puesto 1 solo ladrillo. En 2018 [Cotreco en la mira: Casi 4 millones de pesos por una planta de reciclado que no se hizo](https://www.telediariodigital.net/2018/12/cotreco-en-la-mira-casi-4-millones-de-pesos-por-una-planta-de-reciclado-que-no-se-hizo/) el municipio ya llevaba pagado $3.658.693 que hoy suman casi __9 millones de pesos__ y un costo que asciende a unos $300.000$ por mes.
-
-Todo esto es importante mencionar porque la empresa entró en concurso de acreedores por falta de pago y cheques sin fondo (explicar mejor) y si llegara a quebrar que pasaría con todos los recursos que el municipio ya ha entregado? [COTRECO: La impunidad no será eterna](http://www.retruco.com.ar/cotreco-la-impunidad-no-sera-eterna/)
-Si bien desde ese momento el contrato no tiene validez, el municipio siguió optando por sostener la empresa
-[Cotreco: de rescindir el contrato, no sería de forma inmediata](https://www.puntal.com.ar/cotreco-rescindir-el-contrato-no-seria-forma-inmediata-n31059)
+Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuestras ideas para dar respuesta o ensayar (a pequeña escala) la solución a alguna problemática de la ciudad. El tratamiento de la basura (o residuos sin están separados) es un punto muy importante en la gestión de cualquier localidad.
 
 __Gestión integral de la higiene urbana__
-REDUCIR LA CANTIDAD DE RESIDUOS MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. POR OTRO LADO, LA DECISIÓN DE REUTILIZAR Y RECICLAR APARECEN TAMBIÉN COMO ALTERNATIVAS MÁS QUE ÚTILES PARA SUMARSE A ESA BÚSQUEDA DE ACERCARNOS A TENER BASURA CERO EN NUESTRA CIUDAD. Y EN ESO, EL APORTE DE CADA UNO DESDE SU CASA, ES NECESARIO Y FUNDAMENTAL.
-Desde el planteo que habíamos hecho en 2019 [Separación en orígen como alternativa al fracaso de la gestión de la higiene urbana.](https://respeto.org.ar/2019/02/07/higiene_urbana/) comenzamos a darle forma a un ensayo de separación en origen de residuos y disposición final con la inclusión de la dimensión social (recuperadores urbanos) en el proceso.
+REDUCIR LA CANTIDAD DE BASURA MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. DE ESTA FORMA PODEMOS RECUPERAR UNA GRAN CANTIDAD DE RESIDUOS RECICLABLES QUE DE OTRA FORMA TERMINARÍAN (EN EL MEJOR DE LOS CASOS) EN UN ENTERRAMIENTO SANITARIO, SINO SIMPLEMENTE ENTERRADOS O HASTA QUEMADOS CONTAMINANDO EL AMBIENTE DONDE VIVIMOS Y DERROCHANDO ENERGÍA Y RECURSOS NO RENOVABLES.
 
-En este marco nace __ecovecin@s__: describir
-- compostaje domiciliario para los residuos orgánicos (para reducir el 50% de lo que se genera como basura)
-- bolsas de separación de residuos sólidos urbanos (3 colores) para poder recuperar el otro 50% de lo que se genera como desecho
+MÁS ALLÁ QUE EL ROL DEL ESTADO ES FUNDAMENTAL, PARA ACERCARNOS A TENER BASURA CERO EN NUESTRA CIUDAD EL APORTE Y COMPROMISO DE CADA UNO DESDE SU CASA, ES NECESARIO Y FUNDAMENTAL.
 
-Imagenes de ecovecinos, bolsas, chata, y algunos datos.
+Desde el planteo que habíamos hecho en 2019 [Separación en orígen como alternativa al fracaso de la gestión de la higiene urbana.](https://respeto.org.ar/2019/02/07/higiene_urbana/) comenzamos a darle forma a este ensayo de separación en origen y disposición final de residuos con la inclusión de recuperadores urbanos en el proceso.
 
+En este marco nace __ecovecin@s__:
 
-### Resumen de recolecciones
+![enlace en línea](/img/dispositivos.jpeg)
+![enlace en línea](/img/bolsas2.jpeg)
 
-- Dia 5/6 (zona 2 y 3 juntas): Se recolectaron residuos que cada ecovecin@ separó durante __3 semanas__
+Construimos una estructura de madera con pallets reciclados y pintamos las bolsas de colores que habíamos encargado para la prueba piloto
 
-__Tiempo de Recorrido__: 3 horas  
-__Kilómetros Recorridos:__  35 km
-__Cantidad de ecovecin@s__: 42  
-__Residuos Recuperados:__ 268 kg con un rechazo (residuos que no se pudieron vender) de 32 kg; es decir un 82% de aprovechamiento
-__Plástico y Aluminio: 50 kg__  
-__Papel y Cartón: 63 kg__  
-__Vidrio: 155 kg__  
-__Eco botellas construidas:__  6
+![enlace en línea](/img/dispositivo2.jpeg)
+![enlace en línea](/img/bolsas3.jpeg)
 
----
+Entregamos a cada vecina/o el dispositivo completo que incluye la estructura de madera, las bolsas de colores y 3 bolsas blancas tipo arpillera que van dentro de cada una de las de colores de forma que solo se muevan las blancas.
 
-- Dia 12/6 (zona 1): Se recolectaron residuos que cada ecovecin@ separó durante __3 semanas__
+![enlace en línea](/img/zonas.jpeg)
+![enlace en línea](/img/bolsas.jpeg)
 
-__Tiempo de Recorrido__: 2 horas  
-__Kilómetros Recorridos: 30km__  
-__Cantidad de ecovecin@s__: 38  
-Residuos Recuperados: 263 kg con un rechazo (residuos que no se pudieron vender) de 16 kg: 94% de aprovechamiento  
-__Vidrio: 119 kg__ (a $1 el Kg: $119)  
-__Botellas de salsa de tomate: 20__ (a $1,5 el Kg: 30$)  
-__PET: botellas plásticas de bebidas y algunos envases de productos alimenticios (no las tapitas): 13,5 kg__ (a precio de planta municipal de $13 por kg:  $175,5)  
-__Aluminio: 2,5 kg__ (a $15 el kg: $37,5)  
-__Polietileno de baja densidad: bolsas plasticas, papel film, sachet de leche: 4 kg__ (a $6 por kg: $24)  
-__Papel blanco: 17kg__ (a $8 por kg: $136)  
-__Papel mixto: 45 kg__ (a $4 por kg: $180)  
-__Cartón: 20 kg__ (a $4 por kg: $80)  
-__Latas: 4 kg__  (a $3 por kg: $12)  
-__Ganancia para el recuperador por la venta de residuos de 38 familias acopiados durante 21 días: $794__
-__Costo de la Recolección (combustible y horas de trabajo que cubre el partido:__
+Dividimos el barrio donde comenzamos la prueba piloto (banda norte) en 3 zonas de acuerdo a recorridos que establecimos para optimizar la logística y cada ecovecina/o se compromete a sacar las bolsas blancas limpias y atadas el día que pasamos a recolectar (cada 3 semanas)
+
+![enlace en línea](/img/carro.jpeg)
+![enlace en línea](/img/eco.jpg)
+
+Cada viernes salimos a recolectar los RSU (resiudos sólidos urbanos) ya separados de alguna de las zonas y los llevamos al punto de disposición final (cooperativa todo sirve y recuperador fúnez y familia); allí le hacen la última clasificación y lo venden a los centros de acopio donde (en Río Cuarto no hay plantas procesadoras y recicladoras por lo que casi todos los materiales se venden como materias primas para estas industrias presentes en otras localidades).
+
+![enlace en línea](/img/casaescuela.jpeg)
+![enlace en línea](/img/ecobotella.jpeg)
+![enlace en línea](/img/ecobotella2.jpeg)
+
+De cada venta, siempre hay un porcentaje de residuos que no tiene salida (venta) lo que constituye el rechazo. En general esto está compuesto por plásticos de 1 solo uso como envoltorios de alfajores, sachet de leche, etc. Para que el circuito sea completo y no tener que tirar nada, necesitamos que cada ecovecin@ se comprometa a realizar Eco-botellas, es decir, colocar estos residuos dentro de una botella de plástico que luego usamos como relleno de paredes en un proyecto de bioconstrucción.
+
 
 ---
 
-  - Dia 26/6 (zona 2 y 3 juntas): Se recolectaron residuos que cada ecovecin@ separó durante __3 semanas__
-
-  __Tiempo de Recorrido__: 3 horas y media  
-  __Kilómetros Recorridos:__  35 km
-  __Cantidad de ecovecin@s__: 39  
-  __Residuos Recuperados:__ 223 kg
-  __Plástico y Aluminio: 38 kg__  
-  __Papel y Cartón: 40 kg__  
-  __Vidrio: 145 kg__  
-  __Eco botellas construidas:__  19
+__compostaje domiciliario para los residuos orgánicos (para reducir el 50% de lo que se genera como basura)__

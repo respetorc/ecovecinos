@@ -1,4 +1,8 @@
 - name: Proyecto
   link: /proyecto/
-- name: Contacto
+- name: Higiene Urbana
+  link: /higiene/
+- name: Resultados
+  link: /resultados/
+- name: Participar
   link: /contacto/
