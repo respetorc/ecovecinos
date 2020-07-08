@@ -40,6 +40,13 @@ Cada viernes salimos a recolectar los RSU (resiudos sólidos urbanos) ya separad
 
 De cada venta, siempre hay un porcentaje de residuos que no tiene salida (venta) lo que constituye el rechazo. En general esto está compuesto por plásticos de 1 solo uso como envoltorios de alfajores, sachet de leche, etc. Para que el circuito sea completo y no tener que tirar nada, necesitamos que cada ecovecin@ se comprometa a realizar Eco-botellas, es decir, colocar estos residuos dentro de una botella de plástico que luego usamos como relleno de paredes en un proyecto de bioconstrucción.
 
+__Armado de Eco-Botellas__
+
+<iframe width="702" height="395" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+__Armado de Eco-Botellas en cámara rápida__
+
+<iframe width="702" height="395" src="https://www.youtube.com/embed/n3fzEF3u7To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
