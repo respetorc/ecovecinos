@@ -3,7 +3,7 @@
   const dataUrl = 'georef/ecovecinos.csv'
 
   var map = L.map('map', {
-    center: [-33.1252, -64.3431],
+    center: [-33.1088, -64.3337],
     zoom: 12,
     scrollWheelZoom: true
   })
