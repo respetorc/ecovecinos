@@ -1,0 +1,15 @@
+-1) Cambiar el color de los iconos o marcadores:
+
+Algo explican aca:
+https://leafletjs.com/reference-1.6.0.html#icon
+
+y tambien hay un tutorial para hacer iconos personalizados
+https://leafletjs.com/examples/custom-icons/
+
+El tema que no entiendo las sentencias porq nosotros tenemos una fuente de datos (el csv) de donde se crean los puntos de forma q no hacemos 1 por 1.
+De alguna forma habría que decirle que para los datos de la columna "ecovecinos" que empiezan con "1-..." sean de un color, los datos q empiezan con "2-..." con otro y los de "3-..." con otro
+
+-2) Tamaño del video: inserte un video en "proyecto.md" y se ve medio mal desde el celu, como q se estira la pantalla, no se como insertarlo y q se acomode al tamaño de resolucion de pantalla
+
+-3) insertar polilinea:
+encontre esta explicacion: https://leafletjs.com/reference-1.6.0.html#polyline. cree el archivo "latlong-polilineazona2.txt"  donde estan las coordenadas de la polilinea pero no se como insertarla en el mapa
