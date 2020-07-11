@@ -5,6 +5,8 @@ permalink: /proyecto/
 ---
 Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuestras ideas para dar respuesta o ensayar (a pequeña escala) la solución a alguna problemática de la ciudad. El tratamiento de la basura (o residuos sin están separados) es un punto muy importante en la gestión de cualquier localidad.
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRespetoRioCuarto%2Fvideos%2F563295107610410%2F&show_text=1&width=560" width="560" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
 __Gestión integral de la higiene urbana__
 REDUCIR LA CANTIDAD DE BASURA MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. DE ESTA FORMA PODEMOS RECUPERAR UNA GRAN CANTIDAD DE RESIDUOS RECICLABLES QUE DE OTRA FORMA TERMINARÍAN (EN EL MEJOR DE LOS CASOS) EN UN ENTERRAMIENTO SANITARIO, SINO EN UN BASURAL A CIELO ABIERTO O HASTA QUEMADOS, CONTAMINANDO EL AMBIENTE DONDE VIVIMOS Y DERROCHANDO ENERGÍA Y RECURSOS NO RENOVABLES.
 
@@ -50,6 +52,17 @@ __Armado de Eco-Botellas__
 __Armado de Eco-Botellas en cámara rápida__
 
 <iframe width="702" height="395" src="https://www.youtube.com/embed/n3fzEF3u7To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+__Forma sencilla de separar las tapitas__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znBfPu97dDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+__Separación de los tetrabrick__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rOXM-eur6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+__Separación de papeles__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3ObOyIO85Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![enlace en línea](/img/panfleto.jpeg)
 
