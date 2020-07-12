@@ -47,7 +47,7 @@ De cada recorrido, siempre hay un porcentaje de residuos que no tiene salida o v
 
 __Armado de Eco-Botellas__
 
-<iframe width="713" height="401" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div style=»text-align:center;»><iframe width="713" height="401" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 __Armado de Eco-Botellas en cámara rápida__
 
