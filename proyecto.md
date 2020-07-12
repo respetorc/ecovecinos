@@ -47,11 +47,11 @@ De cada recorrido, siempre hay un porcentaje de residuos que no tiene salida o v
 
 __Armado de Eco-Botellas__
 
-<div style=»text-align:center;»><iframe width="713" height="401" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style=»text-align:center;»> <iframe width="713" height="401" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 __Armado de Eco-Botellas en cámara rápida__
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/n3fzEF3u7To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p id="imgcentrada"> <iframe width="702" height="395" src="https://www.youtube.com/embed/n3fzEF3u7To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
 
 
 __Forma sencilla de separar las tapitas__
