@@ -24,6 +24,18 @@ Con la firma del contrato mencionado, el municipio comienza a pagar __$176.000__
 Todo esto es importante mencionar porque en 2018 la empresa entró en concurso de acreedores, emitió cheques sin fondo y hoy tiene más de 44 embargos y 6 directivos procesados por evasión. Si llegara a quebrar, ¿qué pasaría con todos los recursos que el municipio ya ha entregado? ([COTRECO: La impunidad no será eterna](http://www.retruco.com.ar/cotreco-la-impunidad-no-sera-eterna/)). Desde el momento que la empresa entró en concurso preventivo, el contrato estipulaba la rescisión automática, sin embargo el municipio siguió optando por sostener la empresa después de más de 1 año y medio.
 [Cotreco: de rescindir el contrato, no sería de forma inmediata](https://www.puntal.com.ar/cotreco-rescindir-el-contrato-no-seria-forma-inmediata-n31059)
 
+### Informe de Pablo callejón:
+
+__10 de Julio 2020__ [COTRECO: La basura debajo de la alfombra](http://postercentral.com.ar/2020/07/10/la-basura-debajo-de-la-alfombra/)  
+__30 de junio 2020__ [Apartaron a Senestrari y procesan a Busso y otros directivos de Cotreco](http://postercentral.com.ar/2020/06/30/apartaron-a-senestrari-y-procesan-a-busso-y-otros-directivos-de-cotreco/)  
+__10 de Febrero 2020__ [Cotreco, denuncias por estafa – Senestrari: “Pedimos la detención de Busso, su situación es tan grave como la de los gremialistas de Surrbac”](http://postercentral.com.ar/2020/02/10/cotreco-denuncias-por-estafa-senestrari-pedimos-la-detencion-de-busso-su-situacion-es-tan-grave-como-la-de-los-gremialistas-de-surrbac/)  
+__22 de diciembre de 2019__ [Imputaron a Busso y a otros 15 directivos de Cotreco por una supuesta estafa al fisco en más de $1.000 millones](http://postercentral.com.ar/2019/12/22/imputaron-a-busso-y-a-otros-15-directivos-de-cotreco-por-una-supuesta-estafa-al-fisco-en-mas-de-1-000-millones/)  
+__4 de diciembre de 2019__ [La oposición apuntó a Cotreco: “Se paga un 89% más por una planta de reciclaje que no existe”](http://postercentral.com.ar/2019/12/04/la-oposicion-apunto-a-cotreco-se-paga-un-89-mas-por-una-planta-de-reciclaje-que-no-existe/)  
+
+### Informe publicado en Diario Perfil:
+__22 de diciembre de 2019__ [Imputaron a 16 directivos de Cotreco por perjudicar al fisco en más de $1.000 millones ](https://www.perfil.com/noticias/cordoba/imputaron-a-16-directivos-de-cotreco-por-perjudicar-al-fisco-en-mas-de-1000-millones.phtml)
+
+
 
 __Conceptos mencionados:__
 __Basurales a cielo abierto:__ los residuos son depositados en un predio sin tratar y de manera indiferenciada, frecuentemente en cavas. Esto deriva en la contaminación del aire, el suelo y el agua, además de propiciar abundantes problemas para la salud por la propagación de plagas y vectores. Una vez que estos basurales se cierran, dejan un pasivo ambiental, de manera que, para volver a utilizar estos espacios para nuevas actividades, estos deberían ser saneados.
