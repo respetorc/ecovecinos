@@ -5,81 +5,36 @@ permalink: /resultados/
 ---
 
 
-### Resumen de recolecciones
+## Resumen de recolecciones
 
+  __2 meses de acopio: desde mitad de mayo a mitad de julio__
 
-- Dia 5/6 (zona 2 y 3 juntas): Se recolectaron residuos que cada ecovecin@ separó y acopió durante __3 semanas__
+  | zonas                             | zona 2 y 3      | zona 1          | zona 2y 3        | zona 1       | zona 2       | zona 3       | total        |
+  |-----------------------------------|-----------------|-----------------|------------------|--------------|--------------|--------------|--------------|
+  | dia                               | 5/6             | 12/6            | 26/6             |              |              |              |              |
+  | tiempo                            | 3 horas         | 2 horas         | 3,5 horas        |              |              |              |              |
+  | kilómetros                        | 35 km           | 30 km           | 35 km            |              |              |              |              |
+  | Cantidad de Ecovecin@s            | 42              | 38              | 39               |              |              |              |              |
+  | Eco-Botellas                      | 6               | 15              |                  |              |              |              |              |
+  | vidrio                            | 161kg (161$)    | 119kg (119$)    | 154,5kg (154,5$) | 119kg (119$) | 119kg (119$) | 119kg (119$) | 119kg (119$) |
+  | vidrio dif. (bot. puré de tomate) | 9u (13,5$)      | 20u (30$)       | 22u (33$)        |              |              |              |              |
+  | vidrio dif. (porron cerveza)      |                 |                 | 10u (100$)       |              |              |              |              |
+  | vidrio dif. (porroncito cerveza)  |                 |                 | 12u (6$)         |              |              |              |              |
+  | PET                               | 14kg (182$)     | 13,5kg (175,5$) | 12kg (156$)      |              |              |              |              |
+  | Polietileno de baja densidad      | fue al rechazo  | 6kg (24$)       | se separó*       |              |              |              |              |
+  | Papel blanco                      | 8kg (64$)       | 17kg (136$)     |                  |              |              |              |              |
+  | Papel mixto                       | 36kg (144$)     | 45kg (180$)     |                  |              |              |              |              |
+  | cartón                            | 4kg (16$)       | 20 kg (80$)     | 42kg (168$)      |              |              |              |              |
+  | aluminio                          | 3kg (45$)       | 2,5 kg (37,5$)  | 3kg (45$)        |              |              |              |              |
+  | lata                              | 2kg (6$)        | 4kg (12$)       | 3,5kg (1,75$)    |              |              |              |              |
+  | rechazo                           | 25kg            | 19kg            |                  |              |              |              |              |
+  | total residuos recuperados        | 262kg           | 263kg           |                  |              |              |              |              |
+  | Ganancia Recuperador              | 631,5$          | 794$            | 664$             |              |              |              |              |
+  | Costo de Recolección              |                 |                 |                  |              |              |              |              |
+  | venta                             | chacarita lópez |                 |                  |              |              |              |              |
 
-__Tiempo de Recorrido__: 3 horas  
-__Kilómetros Recorridos:__ 35km     
-__Cantidad de ecovecin@s__: 42  
-__Eco botellas construidas:__  6  
-Residuos Recuperados: 262 kg con un rechazo (residuos que no se pudieron vender) de 25 kg: 81% de aprovechamiento que fueron vendidos en la Chacarita lópez.  
-__Vidrio: 161 kg__ (a $1 el Kg: $161)   
-__Botellas de salsa de tomate: 9__ (13,5$)   
-__PET: botellas plásticas de bebidas y algunos envases de productos alimenticios (no las tapitas): 14 kg__ (a precio de planta municipal de $13 por kg:  $182)   
-__Aluminio: 3 kg__ (a $15 el kg: $45)   
-__Polietileno de baja densidad: bolsas plasticas, papel film, sachet de leche:__ no se llegó a clasificar (lleva mucho tiempo en relación a la rentabilidad, fue como rechazo)  
-__Papel blanco: 8kg__ (a $8 por kg: $64)   
-__Papel mixto: 36 kg__ (a $4 por kg: $144)   
-__Cartón: 4 kg__ (a $4 por kg: $16)   
-__Latas: 2 kg__  (a $3 por kg: $6)   
-__Ganancia para el recuperador por la venta de residuos de 38 familias acopiados durante 21 días: $631,5__  
-__Costo de la Recolección (combustible y horas de trabajo que cubre el partido:__  
-
----
-
-- Dia 12/6 (zona 1): Se recolectaron residuos que cada ecovecin@ separó y acopió durante __3 semanas__
-
-__Tiempo de Recorrido__: 2 horas  
-__Kilómetros Recorridos:__ 30km  
-__Cantidad de ecovecin@s__: 38   
-__Eco botellas construidas:__  15  
-Residuos Recuperados: 263 kg con un rechazo (residuos que no se pudieron vender) de 16 kg: 94% de aprovechamiento  
-__Vidrio: 119 kg__ (a $1 el Kg: $119)  
-__Botellas de salsa de tomate: 20__ (a $1,5 el Kg: 30$)  
-__PET: botellas plásticas de bebidas y algunos envases de productos alimenticios (no las tapitas): 13,5 kg__ (a precio de planta municipal de $13 por kg:  $175,5)  
-__Aluminio: 2,5 kg__ (a $15 el kg: $37,5)  
-__Polietileno de baja densidad: bolsas plasticas, papel film, sachet de leche: 4 kg__ (a $6 por kg: $24)  
-__Papel blanco: 17kg__ (a $8 por kg: $136)  
-__Papel mixto: 45 kg__ (a $4 por kg: $180)  
-__Cartón: 20 kg__ (a $4 por kg: $80)  
-__Latas: 4 kg__  (a $3 por kg: $12)  
-__Ganancia para el recuperador por la venta de residuos de 38 familias acopiados durante 21 días: $794__
-__Costo de la Recolección (combustible y horas de trabajo que cubre el partido:__
-
----
-
-  - Dia 26/6 (zona 2 y 3 juntas): Se recolectaron residuos que cada ecovecin@ separó durante __3 semanas__
-
-  __Tiempo de Recorrido__: 3 horas y media  
-  __Kilómetros Recorridos:__  35 km
-  __Cantidad de ecovecin@s__: 39  
-  __Residuos Recuperados:__ 223 kg
-  __Plástico y Aluminio: 38 kg__  
-  __Papel y Cartón: 40 kg__  
-  __Vidrio: 145 kg__  
-  __Eco botellas construidas:__  19
-
-  ---
-  ---
-
-  | zonas                        | zona 2 y 3     | zona 1          | zona 2y 3    | zona 1       | zona 2       | zona 3       | total        |
-|------------------------------|----------------|-----------------|--------------|--------------|--------------|--------------|--------------|
-| dia                          | 5/6            | 12/6            |              |              |              |              |              |
-| tiempo                       | 3 horas        | 2 horas         |              |              |              |              |              |
-| kilómetros                   | 35 km          | 30 km           |              |              |              |              |              |
-| Cantidad de Ecovecin@s       | 42             | 38              |              |              |              |              |              |
-| Eco-Botellas                 | 6              | 15              |              |              |              |              |              |
-| vidrio                       | 161kg (161$)   | 119kg (119$)    | 119kg (119$) | 119kg (119$) | 119kg (119$) | 119kg (119$) | 119kg (119$) |
-| Botellas pure de tomate      | 9u (13,5$)     | 20u (30$)       |              |              |              |              |              |
-| PET                          | 14kg (182$)    | 13,5kg (175,5$) |              |              |              |              |              |
-| Polietileno de baja densidad | fue al rechazo |                 |              |              |              |              |              |
-| Papel blanco                 | 8kg (64$)      |                 |              |              |              |              |              |
-| Papel mixto                  | 36kg (144$)    |                 |              |              |              |              |              |
-| cartón                       | 4kg (16$)      |                 |              |              |              |              |              |
-| aluminio                     | 3kg (45$)      |                 |              |              |              |              |              |
-| rechazo                      | 25 kg          | 19 kg           |              |              |              |              |              |
-| total residuos recuperados   | 262kg          | 263 kg          |              |              |              |              |              |
-| Ganancia Recuperador         | 631,5$         |                 |              |              |              |              |              |
-| Costo de Recolección         |                |                 |              |              |              |              |              |
+* los 12 kg del rechazo se separaron a valor de 150$ la hora (tomando como referencia la cooperativa "Creando conciencia") y en 4 horas se pudo separar:
+- 5kg de polietileno (sucio)
+- 5kg de poliestireno (vasitos de café, yogurt y bandejas de comida) que se trituraron en el molino de la cooperativa todo sirve
+- 1,5kg de envoltorio de 1 solo uso (celofán, papel metalizado, sachet de leche)
+- 0,5kg de telgoport
