@@ -60,3 +60,26 @@ __Costo de la Recolección (combustible y horas de trabajo que cubre el partido:
   __Papel y Cartón: 40 kg__  
   __Vidrio: 145 kg__  
   __Eco botellas construidas:__  19
+
+  ---
+  ---
+
+  | zonas                        | zona 2 y 3     | zona 1          | zona 2y 3    | zona 1       | zona 2       | zona 3       | total        |
+|------------------------------|----------------|-----------------|--------------|--------------|--------------|--------------|--------------|
+| dia                          | 5/6            | 12/6            |              |              |              |              |              |
+| tiempo                       | 3 horas        | 2 horas         |              |              |              |              |              |
+| kilómetros                   | 35 km          | 30 km           |              |              |              |              |              |
+| Cantidad de Ecovecin@s       | 42             | 38              |              |              |              |              |              |
+| Eco-Botellas                 | 6              | 15              |              |              |              |              |              |
+| vidrio                       | 161kg (161$)   | 119kg (119$)    | 119kg (119$) | 119kg (119$) | 119kg (119$) | 119kg (119$) | 119kg (119$) |
+| Botellas pure de tomate      | 9u (13,5$)     | 20u (30$)       |              |              |              |              |              |
+| PET                          | 14kg (182$)    | 13,5kg (175,5$) |              |              |              |              |              |
+| Polietileno de baja densidad | fue al rechazo |                 |              |              |              |              |              |
+| Papel blanco                 | 8kg (64$)      |                 |              |              |              |              |              |
+| Papel mixto                  | 36kg (144$)    |                 |              |              |              |              |              |
+| cartón                       | 4kg (16$)      |                 |              |              |              |              |              |
+| aluminio                     | 3kg (45$)      |                 |              |              |              |              |              |
+| rechazo                      | 25 kg          | 19 kg           |              |              |              |              |              |
+| total residuos recuperados   | 262kg          | 263 kg          |              |              |              |              |              |
+| Ganancia Recuperador         | 631,5$         |                 |              |              |              |              |              |
+| Costo de Recolección         |                |                 |              |              |              |              |              |
