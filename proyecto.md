@@ -7,7 +7,7 @@ Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuest
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRespetoRioCuarto%2Fvideos%2F563295107610410%2F&show_text=1&width=560" width="560" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-__Gestión integral de la higiene urbana__
+__Gestión integral de la higiene urbana__  
 REDUCIR LA CANTIDAD DE BASURA MEDIANTE LA SEPARACIÓN EN ORIGEN ES EL FIN ÚLTIMO DE CUALQUIER POLÍTICA DE GESTIÓN INTEGRAL DE LA HIGIENE URBANA DE UN MUNICIPIO. DE ESTA FORMA PODEMOS RECUPERAR UNA GRAN CANTIDAD DE RESIDUOS RECICLABLES QUE DE OTRA FORMA TERMINARÍAN (EN EL MEJOR DE LOS CASOS) EN UN ENTERRAMIENTO SANITARIO, SINO EN UN BASURAL A CIELO ABIERTO O HASTA QUEMADOS, CONTAMINANDO EL AMBIENTE DONDE VIVIMOS Y DERROCHANDO ENERGÍA Y RECURSOS NO RENOVABLES.
 
 MÁS ALLÁ QUE EL ROL DEL ESTADO ES FUNDAMENTAL, PARA ACERCARNOS A TENER BASURA CERO EN NUESTRA CIUDAD EL APORTE Y COMPROMISO DE CADA UNO DESDE SU CASA, ES NECESARIO Y FUNDAMENTAL.
@@ -39,32 +39,13 @@ Cada viernes salimos a recolectar los RSU (resiudos sólidos urbanos) ya separad
 ![enlace en línea](/img/carro.jpeg)
 ![enlace en línea](/img/eco.jpg)
 
-De cada recorrido, siempre hay un porcentaje de residuos que no tiene salida o venta, lo que constituye el __RECHAZO__. En general esto está compuesto por plásticos de 1 solo uso como envoltorios de alfajores, sachet de leche, etc. Para que el circuito sea completo y no tener que tirar nada, necesitamos que cada ecovecin@ se comprometa a realizar __Eco-botellas__, es decir, colocar estos residuos dentro de una botella de plástico que luego usamos como relleno de paredes en un proyecto de bioconstrucción (_casa escuela caracol_).
+De cada recorrido, siempre hay un porcentaje de residuos que no tiene salida o venta, lo que constituye el __RECHAZO__. En general esto está compuesto por plásticos blandos o de 1 solo uso como envoltorios de alfajores, sachet de leche, etc. Para que el circuito sea completo y no tener que tirar nada como basura, volviendo al enterramiento, necesitamos que cada ecovecin@ se comprometa a realizar __Eco-botellas__, es decir, colocar estos residuos dentro de una botella de plástico que luego usamos como relleno de paredes en un proyecto de bioconstrucción (_casa escuela caracol_).
 
 ![enlace en línea](/img/casaescuela.jpeg)
 ![enlace en línea](/img/ecobotella.jpeg)
 ![enlace en línea](/img/ecobotella2.jpeg)
 
-__Armado de Eco-Botellas__
 
-<div style=»text-align:center;»> <iframe width="713" height="401" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-
-__Armado de Eco-Botellas en cámara rápida__
-
-<p id="imgcentrada"> <iframe width="702" height="395" src="https://www.youtube.com/embed/n3fzEF3u7To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
-
-
-__Forma sencilla de separar las tapitas__
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znBfPu97dDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-__Separación de los tetrabrick__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rOXM-eur6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-__Separación de papeles__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U3ObOyIO85Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![enlace en línea](/img/panfleto.jpeg)
 
 ---
 

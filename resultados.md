@@ -4,7 +4,7 @@ title: Resúmen de recolecciones y resultados obtenidos
 permalink: /resultados/
 ---
 
-Desde mayo del 2020  __(9 semanas)__ empezamos a sistematizar la información de los acopios, recolecciones y las ventas de alrededor de 96 personas o familias (entre quienes comenzaron y quienes se han ido sumando) que vienen participando de este ensayo de gestión integral de residuos sólidos urbanos, obteniendo los siguientes resultados:
+Desde mayo del 2020  __(9 semanas)__ empezamos a sistematizar la información de los acopios, recolecciones y las ventas de alrededor de 90 personas o familias (entre quienes comenzaron y quienes se han ido sumando) que vienen participando de este ensayo de gestión integral de residuos sólidos urbanos, obteniendo los siguientes resultados:
 
 - Residuos totales recuperados:
 - % de aprovechamiento de residuos (restando el rechazo o lo que no se pudo vender):
