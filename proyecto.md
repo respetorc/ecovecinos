@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ecovecin@s: proyecto de separación domiciliaria, recolección y entrega a destinos sustentables de residuos sólidos urbanos
+title: Ecovecin@s como proyecto de separación domiciliaria, recolección y entrega a destinos sustentables de residuos sólidos urbanos
 permalink: /proyecto/
 ---
 Ecovecin@s nace como varios de nuestros proyectos donde intentamos plasmar nuestras ideas para dar respuesta o ensayar (a pequeña escala) la solución a alguna problemática de la ciudad. El tratamiento de la basura (o residuos sin están separados) es un punto muy importante en la gestión de cualquier localidad.
