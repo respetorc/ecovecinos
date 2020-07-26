@@ -5,13 +5,21 @@ permalink: /higiene/
 ---
 La gestión de los residuos sólidos urbanos (RSU) ocupa un lugar importante entre las preocupaciones sobre políticas públicas en diversos municipios de la Argentina. Los modelos de gestión de residuos predominantes en el país se apoyan en dos mecanismos de disposición final: los basurales a cielo abierto y los rellenos sanitarios con formatos de recolección que los trasladan conjuntamente, de manera indiferenciada, hacia su destino.
 
+__Basurales a cielo abierto:__ los residuos son depositados en un predio sin tratar y de manera indiferenciada, frecuentemente en cavas. Esto deriva en la contaminación del aire, el suelo y el agua, además de propiciar abundantes problemas para la salud por la propagación de plagas y vectores. Una vez que estos basurales se cierran, dejan un pasivo ambiental, de manera que, para volver a utilizar estos espacios para nuevas actividades, estos deberían ser saneados.
+
+__Rellenos sanitarios__: son espacios para la disposición final de residuos. Estos se vuelcan (pueden tratarse previamente), se compactan y se revisten con tierra y otros materiales. Esa capa, luego, es cubierta con otra capa de residuos, y así sucesivamente. Por lo general, se diseñan con medidas de impermeabilización, captación de lixiviados (para disminuir la contaminación de la tierra y aguas subterráneas) y venteo o captación de gases (para reducir el riesgo de explosiones, disminuir las emisiones de CO2 y, en algunos casos, generar electricidad). Se trata de obras de ingeniería diseñadas, en principio, para evitar la contaminación del subsuelo y del aire.
+
+![enlace en línea](/img/enterramiento.png)
+
+![enlace en línea](/img/enterramiento2.png)
+
 En materia ambiental, los rellenos y basurales son un tema de preocupación a nivel internacional, en tanto generan emisiones de gases de efecto invernadero que amplifican el cambio climático. Por otra parte, el tema tiene una importante connotación social, dado que existe gran cantidad de familias que viven del trabajo diario de sus miembros en la recuperación de los residuos, los llamados “recuperadores urbanos” o “cartoneros”. Además, el manejo de residuos (cuya potestad es municipal), tiene una alta incidencia en los presupuestos.
 
 Hoy en día, frente a las preocupaciones ambientales, sociales, económicas y políticas, se ha consolidado el enfoque de la economía circular o la gestión integral de los residuos sólidos urbanos (GIRSU), orientada a disminuir su generación y reducir el impacto ambiental negativo de estos una vez que se generan. Se promueve la reutilización y también el reciclado de residuos, con el fin de reintroducirlos en el sistema ecológico o como insumos para la producción mediante cierto tratamiento previo.
 
 __Gestión de RSU en Río Cuarto__
 
-En Río Cuarto el servicio está tercerizado y 1 sóla empresa se encarga del barrido, recolección, tratamiento y disposición final de residuos. Esta disposición final es en un __enterramiento sanitario__ que está situado en el ejido urbano de la Municipalidad de Río Cuarto, al Sud Este de la Ciudad en el paraje denominado “Paso del Espinillo” sobre el viejo camino a La Carlota, distando a 8 kilómetros aproximadamente del centro de la ciudad (-33°09'51'' de latitud y -64°16'45'' de longitud). El predio tiene una extensión total de 20 hectáreas.
+En Río Cuarto el servicio está tercerizado y 1 sola empresa se encarga del barrido, recolección, tratamiento y disposición final de residuos. Esta disposición final es en un __enterramiento sanitario__ que está situado en el ejido urbano de la Municipalidad de Río Cuarto, al Sud Este de la Ciudad en el paraje denominado “Paso del Espinillo” sobre el viejo camino a La Carlota, distando a 8 kilómetros aproximadamente del centro de la ciudad (-33°09'51'' de latitud y -64°16'45'' de longitud). El predio tiene una extensión total de 20 hectáreas.
 
 ![enlace en línea](/img/enterramiento3.png)
 
@@ -24,7 +32,9 @@ Con la firma del contrato mencionado, el municipio comienza a pagar __$176.000__
 Todo esto es importante mencionar porque en 2018 la empresa entró en concurso de acreedores, emitió cheques sin fondo y hoy tiene más de 44 embargos y 6 directivos procesados por evasión. Si llegara a quebrar, ¿qué pasaría con todos los recursos que el municipio ya ha entregado? ([COTRECO: La impunidad no será eterna](http://www.retruco.com.ar/cotreco-la-impunidad-no-sera-eterna/)). Desde el momento que la empresa entró en concurso preventivo, el contrato estipulaba la rescisión automática, sin embargo el municipio siguió optando por sostener la empresa después de más de 1 año y medio.
 [Cotreco: de rescindir el contrato, no sería de forma inmediata](https://www.puntal.com.ar/cotreco-rescindir-el-contrato-no-seria-forma-inmediata-n31059)
 
-### Informe de Pablo callejón:
+---
+
+##### Informe de Pablo callejón:
 
 __10 de Julio 2020__ [COTRECO: La basura debajo de la alfombra](http://postercentral.com.ar/2020/07/10/la-basura-debajo-de-la-alfombra/)  
 __30 de junio 2020__ [Apartaron a Senestrari y procesan a Busso y otros directivos de Cotreco](http://postercentral.com.ar/2020/06/30/apartaron-a-senestrari-y-procesan-a-busso-y-otros-directivos-de-cotreco/)  
@@ -32,16 +42,5 @@ __10 de Febrero 2020__ [Cotreco, denuncias por estafa – Senestrari: “Pedimos
 __22 de diciembre de 2019__ [Imputaron a Busso y a otros 15 directivos de Cotreco por una supuesta estafa al fisco en más de $1.000 millones](http://postercentral.com.ar/2019/12/22/imputaron-a-busso-y-a-otros-15-directivos-de-cotreco-por-una-supuesta-estafa-al-fisco-en-mas-de-1-000-millones/)  
 __4 de diciembre de 2019__ [La oposición apuntó a Cotreco: “Se paga un 89% más por una planta de reciclaje que no existe”](http://postercentral.com.ar/2019/12/04/la-oposicion-apunto-a-cotreco-se-paga-un-89-mas-por-una-planta-de-reciclaje-que-no-existe/)  
 
-### Informe publicado en Diario Perfil:
+##### Informe publicado en Diario Perfil:
 __22 de diciembre de 2019__ [Imputaron a 16 directivos de Cotreco por perjudicar al fisco en más de $1.000 millones ](https://www.perfil.com/noticias/cordoba/imputaron-a-16-directivos-de-cotreco-por-perjudicar-al-fisco-en-mas-de-1000-millones.phtml)
-
-
-
-__Conceptos mencionados:__
-__Basurales a cielo abierto:__ los residuos son depositados en un predio sin tratar y de manera indiferenciada, frecuentemente en cavas. Esto deriva en la contaminación del aire, el suelo y el agua, además de propiciar abundantes problemas para la salud por la propagación de plagas y vectores. Una vez que estos basurales se cierran, dejan un pasivo ambiental, de manera que, para volver a utilizar estos espacios para nuevas actividades, estos deberían ser saneados.
-
-__Rellenos sanitarios__: son espacios para la disposición final de residuos. Estos se vuelcan (pueden tratarse previamente), se compactan y se revisten con tierra y otros materiales. Esa capa, luego, es cubierta con otra capa de residuos, y así sucesivamente. Por lo general, se diseñan con medidas de impermeabilización, captación de lixiviados (para disminuir la contaminación de la tierra y aguas subterráneas) y venteo o captación de gases (para reducir el riesgo de explosiones, disminuir las emisiones de CO2 y, en algunos casos, generar electricidad). Se trata de obras de ingeniería diseñadas, en principio, para evitar la contaminación del subsuelo y del aire.
-
-![enlace en línea](/img/enterramiento.png)
-
-![enlace en línea](/img/enterramiento2.png)
