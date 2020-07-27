@@ -4,23 +4,24 @@ title: Resúmen de recolecciones y resultados obtenidos
 permalink: /resultados/
 ---
 
-Desde mayo del 2020  __(9 semanas)__ empezamos a sistematizar la información de los acopios, recolecciones y las ventas de alrededor de 90 personas o familias (entre quienes comenzaron y quienes se han ido sumando) que vienen participando de este ensayo de gestión integral de residuos sólidos urbanos, obteniendo los siguientes resultados:
+Desde mayo del 2020  __(9 semanas)__ empezamos a sistematizar la información de los acopios, recolecciones y las ventas de alrededor de 90 personas o familias (entre quienes comenzaron y quienes se han ido sumando) que vienen participando de este proyecto de gestión integral de residuos sólidos urbanos, obteniendo los siguientes resultados:
 
-- Residuos totales recuperados:
-- % de aprovechamiento de residuos (restando el rechazo o lo que no se pudo vender):
-- vidrio
-- papel
-- aluminio
-- plastico
-- ganancia para los recuperadores:
-- tiempo total (recorrido por todos los puntos, disposición final y vuelta):
-- Kilómetros totales recorridos:
-- Costo total de la recolección (horas de trabajo, gasto de combustible)
+- Ecobotellas construidas: __64__
+- Residuos totales recuperados: __1173,5 kg__  
+- % de aprovechamiento de residuos (restando el rechazo, es decir, lo que no se pudo vender): __93%__  
+- Ganancia para los recuperadores: __3.221$__
+- tiempo total (recorrido por todos los puntos, disposición final y vuelta): __24 hs de trabajo__
+- Kilómetros totales recorridos: __219 km__
+- Costo total de la recolección (horas de trabajo, gasto de combustible que aporta el partido respeto):
+Residuos específicos que se recuperaron:
+- Vidrio: __700 kg__
+- Botellas de pure de tomate: __80 unidades__
+- Papel blanco: __32,5 kg__
+- Papel mixto y cartón: __238,5 kg__
+- Aluminio: __13 kg__
+- Botellas PET: __63,5 kg__
 
-## Balance
-__Cosas positivas__
 
-__Cosas para mejorar__
 
 ## Resumen de recolecciones  
 
