@@ -51,20 +51,31 @@ __Las botellas PET:__ se venden directamente a la acopiadora municipal.
 __LDPE (polietileno de baja densidad):__ Con este residuo se crean las eco-botellas que se pueden utilizar para llenar volumen en proyectos de bio-construcción. Además algunos pueden procesarse y reciclarse como los que mencionamos acontinuación.   
 __HDPE (polietileno de alta densidad), PP (polipropileno) y PS (poliestireno):__ se pueden reciclar y transformar en madera plástica:
 
-__Los plásticos duros se trituran a través de un molino, puede ser de escala industrial o pequeña escala como el de [Plasticar](https://www.plasticar.ml/#Productos)__
-![enlace en línea](/img/molino1.jpg)
+__Los plásticos duros se trituran a través de un molino, puede ser de escala industrial o pequeña escala__
+![enlace en línea](/img/molino1.jpg)  
 molino de tipo industrial  
+
+---
+
 ![enlace en línea](/img/molino2.png)  
-molino del taller de plasticar  
+molino del taller de [Plasticar](https://www.plasticar.ml/)  
+
+---
 
 __Algunos LDPE (polietileno de baja densidad) pueden procesarse en una agrumadora y de esta forma sumarse al proceso de reciclaje en esta etapa__  
 ![enlace en línea](/img/agrumadora.jpg)
 
-__Finalmente se procesan en una extrusora que puede ser de distintas escalas:__  
-![enlace en línea](/img/extrusora.jpg)  
-esquema de una extrusora
-![enlace en línea](/img/Extrusora2.jpg)  
-extrusora del taller de plasticar  
+---
 
-__De esta forma pueden crearse diversos productos como los que fabrican desde [Plasticar](https://www.plasticar.ml/#Productos) con la base de un listón de madera plástica:__  
+__Finalmente se procesan en una extrusora que puede ser de distintas escalas:__   
+![enlace en línea](/img/Extrusora2.jpg)  
+esquema de una extrusora
+
+---
+
+![enlace en línea](/img/extrusora.jpg)  
+extrusora del taller de [Plasticar](https://www.plasticar.ml/)    
+
+__De esta forma pueden crearse diversos productos con la base de un listón de madera plástica:__   
 ![enlace en línea](/img/liston.png)  
+imágen tomada de [Plasticar](https://www.plasticar.ml/#Productos)  
