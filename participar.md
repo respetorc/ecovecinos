@@ -67,6 +67,7 @@ __Algunos LDPE (polietileno de baja densidad) pueden procesarse en una agrumador
 agrumadora, imágen tomada de internet  
 ![enlace en línea](/img/grumos.jpeg)  
 Resultado final de silobolsa pasada por la agrumadora de la cooperativa todo sirve. Imagen propia  
+
 ---
 
 __Finalmente se procesan en una extrusora__   
