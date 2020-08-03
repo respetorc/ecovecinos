@@ -9,25 +9,29 @@ Desde mayo del 2020  __(9 semanas)__ empezamos a sistematizar la información de
 - Ecobotellas construidas: __64__  
 - Residuos totales recuperados: __1.457 kg__    
 - % de aprovechamiento de residuos (restando el rechazo, es decir, lo que no se pudo vender): __93%__   
-- Ganancia para los recuperadores: __4.160$__  
+- Ganancia por venta de los residuos (beneficio económico para los recuperadores): __4.160$__  
 - tiempo insumido (recorrido por todos los puntos, disposición final y vuelta): __24 hs de trabajo__  
 - Kilómetros totales recorridos: __219 km__   
-- Costo total de la recolección (horas de trabajo, gasto de combustible que aporta el partido respeto): __13.550$__    
+- Costo total de la recolección (horas de trabajo, gasto de combustible que aporta el partido respeto): __16.800$__    
 
-__Residuos que se recuperaron:__  
+__Residuos que se recuperaron:__   
 - Vidrio: __840 kg__  
 - Botellas de salsa de tomate: __114 unidades__  
-- Papel blanco: __69,5 kg__  
-- Papel mixto y cartón: __282,5 kg__  
-- Aluminio: __18 kg__  
-- Latas: __21,5 kg__  
-- Botellas PET: __78 kg__  
-- Polietileno de baja densidad: __5 kg__  
+- Papel blanco: __69,5 kg__   
+- Papel mixto y cartón: __282,5 kg__   
+- Aluminio: __18 kg__   
+- Latas: __21,5 kg__   
+- Botellas PET: __78 kg__   
+- Polietileno de baja densidad: __5 kg__   
 
-## Promedio Mensual por familia:  
-__8 kg por familia/persona de residuos recuperables__
-__23$ de ganancia para recuperador por la venta de esos residuos recuperados__
+## Promedio por familia:  
+Con estos datos podemos estimar que se juntan aproximadamente __8 kg de residuos recuperables por familia__, es decir casi unos 100 kg anuales que podemos evitar que se terminen enterrando.  
 
+## Beneficios Económicos
+Cada kg de residuo se puede vender a 2,9$ en promedio, lo que nos arroja __23$ de ganancia mensuales para el o la recuperador/a__ por familia que separe residuos. De esta forma necesitaría juntar residuos de 100 familias para venderlos por 2300$.  
+
+## Gastos del proyecto
+Podemos analizar los gastos desde las familias que participan o desde los kg de residuos que recuperamos. Entre las horas de trabajo y gastos de combustible hemos gastado 16.800$ en 2 meses para recuperar residuos de 90 famialias de forma tal que el gasto promedio es de __93$ por familia por mes.__ Por otro lado, hemos evitado enterrar 1457 kg de residuos, lo que nos arroja un promedio de __11,5$ por Kg recuperado__.  
 
 ## Resumen de recolecciones  
 
@@ -52,7 +56,7 @@ __23$ de ganancia para recuperador por la venta de esos residuos recuperados__
   | total residuos recuperados        | 237kg           | 247kg           | 259kg            | 187kg        | 113,5kg      |  110kg       | 283kg        |
   | % residuos recuperados            |  90,4%          |  93,9%          | 95,5%            |  90,7%       |  89,2%       |  95,6%       |  92,5%       |
   | Ganancia Recuperador              |        631,5$   |   794$          |  664$            |   556,5$     | 347$         | 228$         |  939,5$      |
-  | Costo de Recolección**            |       2025$     |  2300$          |  2328$           |  1142$       |  950$        |  1870$       | 2935$        |
+  | Costo de Recolección**            |       2432$     |  2648$          |  3336$           |  1550$       |  1241$       |  2257$       | 3342$        |
 
 *
 Los 12 kg del rechazo se separaron a valor de 150$ la hora (tomando como referencia la cooperativa "Creando conciencia") y en 4 horas se pudo separar:  
@@ -61,4 +65,4 @@ Los 12 kg del rechazo se separaron a valor de 150$ la hora (tomando como referen
 - 1,5kg de envoltorio de 1 solo uso (celofán, papel metalizado, sachet de leche)   
 - 0,5kg de telgoport  
 
-** El costo de la recolección se compone por el valor de la hora de trabajo que se cobra en respeto de la/s personas que hicieron el recorrido y el gasto de combustible por los km recorridos a valor de 53$ el litro de gasoil.  
+** El costo de la recolección se compone por el valor de la hora de trabajo que se cobra en respeto de la/s personas que hicieron el recorrido y el gasto de combustible por los km recorridos a valor de 53$ el litro de gasoil y triplicado para estimar gastos de mantenimiento del vehiculo.  
