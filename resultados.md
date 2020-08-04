@@ -31,7 +31,7 @@ Con estos datos podemos estimar que se juntan aproximadamente __8 kg de residuos
 Cada kg de residuo se puede vender a 2,9$ en promedio, lo que nos arroja __23$ de ganancia mensuales para el o la recuperador/a__ por familia que separe residuos. De esta forma necesitaría juntar residuos de 100 familias para venderlos por 2300$.  
 
 ## Gastos del proyecto
-Podemos analizar los gastos desde las familias que participan o desde los kg de residuos que recuperamos. Entre las horas de trabajo y gastos de combustible hemos gastado 16.800$ en 2 meses para recuperar residuos de 90 famialias de forma tal que el gasto promedio es de __93$ por familia por mes.__ Por otro lado, hemos evitado enterrar 1457 kg de residuos, lo que nos arroja un promedio de __11,5$ por Kg recuperado__.  
+Podemos analizar los gastos desde las familias que participan o desde los kg de residuos que recuperamos. Entre las horas de trabajo y gastos de combustible hemos gastado 16.800$ en 2 meses para recuperar residuos de 90 famialias de forma tal que el gasto promedio es de __93$ por familia por mes.__ Por otro lado, hemos evitado enterrar 1457 kg de residuos, lo que nos arroja un promedio de __11,5$ por Kg recuperado__. Sin embargo, con los recorridos establecidos se podrían sumar una cantidad mucho mayor de ecovecin@s disminuyendo los costos de la recolección.  
 
 ## Resumen de recolecciones  
 
