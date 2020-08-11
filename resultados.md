@@ -10,8 +10,8 @@ Desde mayo del 2020  __(9 semanas)__ empezamos a sistematizar la información de
 - Residuos totales recuperados: __1.457 kg__    
 - % de aprovechamiento de residuos (restando el rechazo, es decir, lo que no se pudo vender): __93%__   
 - Ganancia por venta de los residuos (beneficio económico para los recuperadores): __4.160$__  
-- tiempo insumido (recorrido por todos los puntos, disposición final y vuelta): __24 hs de trabajo__  
 - Kilómetros totales recorridos: __219 km__   
+- tiempo insumido en recorrido y disposición final (no se tiene en cuenta el tiempo de clasificación y pesaje que hace el recuperador para vender): __24 hs de trabajo__  
 - Costo total de la recolección (horas de trabajo, gasto de combustible que aporta el partido respeto): __16.800$__    
 
 __Residuos que se recuperaron:__   
@@ -25,13 +25,15 @@ __Residuos que se recuperaron:__
 - Polietileno de baja densidad: __5 kg__   
 
 ## Promedio por familia:  
-Con estos datos podemos estimar que se juntan aproximadamente __8 kg de residuos recuperables por familia__, es decir casi unos 100 kg anuales que podemos evitar que se terminen enterrando.  
+Con estos datos podemos estimar que se juntan aproximadamente __8 kg de residuos recuperables por familia por mes__, es decir casi unos 100 kg anuales que podemos evitar que se terminen enterrando.  
 
 ## Beneficios Económicos
 Cada kg de residuo se puede vender a 2,9$ en promedio, lo que nos arroja __23$ de ganancia mensuales para el o la recuperador/a__ por familia que separe residuos. De esta forma necesitaría juntar residuos de 100 familias para venderlos por 2300$.  
+Aún teniendo el aporte de las familias que separan de forma adecuada, de Respeto que se los lleva al centro de acopio, el tiempo que insume la clasificación y venta de los residuos, torna imposible que se puedan cubrir las necesidades básicas del recuperador en estas condiciones.    
 
 ## Gastos del proyecto
-Podemos analizar los gastos desde las familias que participan o desde los kg de residuos que recuperamos. Entre las horas de trabajo y gastos de combustible hemos gastado 16.800$ en 2 meses para recuperar residuos de 90 famialias de forma tal que el gasto promedio es de __93$ por familia por mes.__ Por otro lado, hemos evitado enterrar 1457 kg de residuos, lo que nos arroja un promedio de __11,5$ por Kg recuperado__. Sin embargo, con los recorridos establecidos se podrían sumar una cantidad mucho mayor de ecovecin@s disminuyendo los costos de la recolección.  
+Podemos analizar los gastos desde las familias que participan o desde los kg de residuos que recuperamos. Entre las horas de trabajo y gastos de combustible hemos gastado 16.800$ en 2 meses para recuperar residuos de 90 famialias de forma tal que el gasto promedio es de __93$ por familia por mes.__ Por otro lado, hemos evitado enterrar 1457 kg de residuos, lo que nos arroja un promedio de __11,5$ por Kg recuperado__. Sin embargo, en este cálculo no se está teniendo en cuenta el tiempo que le insume al recuperador clasificar y pesar en la chacarita cada residuo lo que constituye trabajo no remunerado. (Recordemos que gracias a esa tarea se está evitando enterrar miles de Kg de residuos).  
+Finalmente podemos mencionar que con los recorridos establecidos se podrían sumar una cantidad mayor de ecovecin@s disminuyendo los costos de la recolección promedio.  
 
 ## Resumen de recolecciones  
 
