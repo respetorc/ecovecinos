@@ -17,6 +17,10 @@ __Para conocer otros proyectos__
 
 ### Tutoriales para una correcta separación y acopio de residuos:
 
+__Limpieza de bolsas re-utilizables blancas__
+
+<iframe width="702" height="395" src="https://www.youtube.com/embed/hcgpEvvDsRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __Armado de Eco-Botellas__
 
 <iframe width="702" height="395" src="https://www.youtube.com/embed/o_Cpvr_62p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -52,13 +56,6 @@ __LDPE (polietileno de baja densidad):__ Con este residuo se crean las eco-botel
 __HDPE (polietileno de alta densidad), PP (polipropileno) y PS (poliestireno):__ se pueden reciclar y transformar en madera plástica:
 
 __Primero se trituran a través de un molino, puede ser de gran escala o pequeña escala__
-![enlace en línea](/img/molino1.jpg)  
-molino de gran escala  
-
----
-
-![enlace en línea](/img/molino2.png)  
-molino de pequeña escala del taller de [Plasticar](https://www.plasticar.ml/)  
 
 ---
 
@@ -70,15 +67,8 @@ Resultado final de silobolsa pasada por la agrumadora de la cooperativa todo sir
 
 ---
 
-__Finalmente se procesan en una extrusora__   
+__Finalmente se procesan en una extrusora con la que se crean listones de madera plastica que se pueden utilizar para crear diversos productos__   
 ![enlace en línea](/img/Extrusora2.jpg)  
 esquema de una extrusora
 
 ---
-
-![enlace en línea](/img/extrusora.jpg)  
-extrusora del taller de [Plasticar](https://www.plasticar.ml/)    
-
-__De esta forma pueden crearse diversos productos con la base de un listón de madera plástica:__   
-![enlace en línea](/img/liston.png)  
-imágen tomada de [Plasticar](https://www.plasticar.ml/#Productos)  

@@ -50,4 +50,28 @@ Para que el circuito sea completo y no tener que tirar nada como basura, volvien
 
 ---
 
-__compostaje domiciliario para los residuos orgánicos (para reducir el 50% de lo que se genera como basura)__
+### compostaje domiciliario para los residuos orgánicos
+
+__Permite reducir el 50% de lo que se genera o tira como basura__
+
+__modelo de compostaje docimiciliario terminado__
+
+<iframe width="698" height="395" src="https://www.youtube.com/embed/d__L28WXrsw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+__Armado:__
+
+1) hacer un pozo lo más profundo posible (mientras más profundo el pozo, más tarda en llenarse por lo que menos espacio o superficie de patio se necesitará para completar el ciclo anual de compostado)
+
+![enlace en línea](/img/organico3.jpeg)
+
+2) Para la tapa, cortar a la mitad una cubierta reciclada y atornillar unas bisagras entre la cubierta y una tapa del diametro interior de la cubierta que puede ser de madera de pallets reciclados. (se puede agregar una madera que sobresalga para poder pisar y levantar la tapa con el pie)
+
+![enlace en línea](/img/organico4.jpeg)
+
+![enlace en línea](/img/organico2.jpeg)
+
+3) apoyar la tapa en el pozo realizado y con la tierra del pozo que se hizo enterrar un poco la cubierta para evitar que queden huecos por los que se puedan meter insectos
+
+![enlace en línea](/img/organico.jpeg)
+
+4) cuando se llene el pozo, sacar la tapa (cubierta con la madera), hacer uno al lado y con parte de esa tierra tapar la superficie del anterior. Luego agregar la tapa al pozo nuevo y repetir el sellado con tierra alrededor de la cubierta y listo. Repetir el proceso hasta que se cumpla 1 año donde ya se podría volver al pozo inicial y aprovechar un excelente compost al mismo tiempo que se reduce a la mitad la basura generada.
